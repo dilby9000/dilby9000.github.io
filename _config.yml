@@ -29,10 +29,9 @@ github_username:  dilby9000
 markdown: GFM
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
-  #- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
