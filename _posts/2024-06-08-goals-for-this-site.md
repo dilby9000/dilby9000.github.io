@@ -1,3 +1,7 @@
+---
+layout: post
+title: My plans for this site
+---
 I am still mulling over what I want the purpose of this site to be. My current vision includes:
 
 - An 'About' page giving some info about me, what I have done, and what I want to accomplish.
